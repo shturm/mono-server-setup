@@ -1,0 +1,9 @@
+<apps>
+	<web-application>
+		<name>daidakaram</name>
+		<vhost>*</vhost>
+		<vport>8081</vport>
+		<vpath>/</vpath>
+		<path>/home/alx/src/monoserver/webclient</path>
+	</web-application>
+</apps>

@@ -1,6 +1,7 @@
 # mono-server-setup
 
-Example configuration files for setting up a Nginx server to forward request to a Mono ASP.NET site via FastCGI and Mono's `fastcgi-mono-server4`
+Example configuration files for setting up a Nginx server to forward request to a Mono ASP.NET site via FastCGI and Mono's `fastcgi-mono-server4
+![Mono Server Setup Diagram](https://raw.githubusercontent.com/shturm/mono-server-setup/master/mono-server-setup.png)
 
 ## Files
 
